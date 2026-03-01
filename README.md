@@ -3,6 +3,11 @@
 2048 is a classic number-merging puzzle game built as a clean, structured game development project.  
 This repository focuses on gameplay logic, system design, and maintainable code.
 
+## 🎮 Play the Game
+
+👉 [ Play Here ](https://gaur95.itch.io/2048)   
+
+
 ## Gameplay
 - Move tiles in four directions
 - Merge tiles with the same value
@@ -27,6 +32,8 @@ This repository focuses on gameplay logic, system design, and maintainable code.
 - Merge validation logic
 - Game state management
 - Input handling
+
+
 
 ## GamePlay Video 
 [ Watch Gameplay Video](https://drive.google.com/file/d/1SsmM5YP8XUk0JGZXzL_j5sGXMJidoUBR/view?usp=sharing)
